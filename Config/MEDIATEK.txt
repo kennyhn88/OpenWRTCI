@@ -1,0 +1,9 @@
+#ABT CETRON CMCC GLINET H3C IMOU JCG JDCLOUD NETCORE NOKIA QIHOO RUIJIE ZYXEL MI-ROUTER REDMI-ROUTER
+CONFIG_TARGET_mediatek=y
+CONFIG_TARGET_mediatek_filogic=y
+#设备列表
+CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cmcc_rax3000m-emmc-ubootmod=y
+CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cmcc_rax3000m-emmc=y
+CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cmcc_rax3000m-nand-ubootmod=y
+CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cmcc_rax3000m-nand=y
+CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cmcc_rax3000m=y
